@@ -1,2 +1,4 @@
 *.txt
 fotos/
+
+.github/workflows/hola.yml
