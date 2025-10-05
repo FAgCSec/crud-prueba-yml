@@ -1,4 +1,4 @@
-nombre: "prueba de funcionamiento"
+name: "prueba de funcionamiento"
 on:
   push:
     branches:
