@@ -2,3 +2,4 @@
 fotos/
 
 .github/workflows/hola.yml
+.github/workflows/tetsCI.yml
